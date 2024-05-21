@@ -1,0 +1,1 @@
+export type ProjectCategories = { id: number, name: string }[]
